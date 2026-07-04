@@ -8,5 +8,6 @@
 			"./worker-configuration.d.ts"
 		]
 	},
-	"include": ["src/worker", "src/enrichment", "src/lib", "test"]
+	"include": ["src/worker", "src/enrichment", "src/lib"],
+	"exclude": ["test"]
 }
