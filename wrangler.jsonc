@@ -3,6 +3,7 @@
 	"name": "agent-visibility-template",
 	"main": "./src/worker/index.ts",
 	"compatibility_date": "2025-10-08",
+	"workers_dev": true,
 	"upload_source_maps": true,
 	"observability": {
 		"enabled": true
